@@ -1,11 +1,11 @@
 # Site settings
 author: Cole Rau
-title: 
+title: Flatiron Student Blog
 header-img: img/home-bg.png
 email: colevrau@gmail.com
 copyright_name: Cole Rau
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Cole Rau
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  colerau
